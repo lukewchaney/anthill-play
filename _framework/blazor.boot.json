@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Anthill.Web",
   "resources": {
-    "hash": "sha256-zWpIXfvatj0aaxHUeqcOQnmrIcaTFW7TkDSZUrZdReY=",
+    "hash": "sha256-fZUC8/a35uUzQmstOj8XyQuGq284RNEnEamriNYHu2Y=",
     "jsModuleNative": {
       "dotnet.native.8.0.33.0xcre88oxf.js": "sha256-1DK+nm58uZjvv7U2c/UlUp1zFjeBZnqXHFHBX/W1igo="
     },
@@ -17,9 +17,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Anthill.Net.wasm": "sha256-3odw/JBmB27ngDQP4HkczYR0gQxtOQJnJtjAnh2GVh8=",
-      "Anthill.Sim.wasm": "sha256-9/RUAGzAsUwl4g+lqdiSGKtAwU+recYrcBbO+X+NjKI=",
-      "Anthill.Web.wasm": "sha256-RBE988OSEGNnLGvqFkgNGUTr/SnQz8j2GAHnFXBzCCA=",
+      "Anthill.Net.wasm": "sha256-vcIYh4HvIUKLPHxEcQlfNV79sm8adOjSizWSPA8uVBw=",
+      "Anthill.Sim.wasm": "sha256-ocWrEkM37k6Yq5t67f7Tuq7PLMO1c73gdHbIRYsq/+g=",
+      "Anthill.Web.wasm": "sha256-W+TSF7Uq+y1RepiRgAd9Z53Gj5aHTx6Jbzb6B9JDBHU=",
       "Kni.Platform.wasm": "sha256-4s41ct/gGaZyPWhzG3Md165LALLp7A0Mt3PA4dCzZrM=",
       "LiteNetLib.wasm": "sha256-d3+3EVC9FCua8NhXcg3iVdsSOOPkSlkIDbxmDDunmEA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-bLNlETe4FI6yOU6YWr+/KHsd+nAG0UU1T3AL6LrpJ/I=",
